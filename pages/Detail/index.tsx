@@ -60,7 +60,7 @@ const Detail = ({ route, navigation }: any) => {
           onPress={onShare}
         >
           <View style={styles.btn}>
-            <Text style={styles.btnText}>Partager</Text>
+            <Text style={styles.btnText}>Share</Text>
           </View>
         </TouchableOpacity>
       </ScrollView>

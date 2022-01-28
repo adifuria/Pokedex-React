@@ -19,5 +19,5 @@ Pokedex using React-Native
 ```
 -  Git clone https://github.com/adifuria/Pokedex-React.git
 -  yarn
--  expo start
+-  expo start -a
 ```

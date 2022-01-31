@@ -2,8 +2,8 @@
 Pokedex using React-Native
 ## 1. Spécification
 
-- Page Accueil avec la possibilité de jouer la fameuse musique de notre enfance
-    - La page d'accueil permet de visualiser tous les pokémons
+- Page Accueil avec la possibilité de jouer la fameuse musique de notre enfance en appuyant sur le bouton "Play Sound"
+    - La page d'accueil permet de visualiser tous les pokémons en scrollant de haut en bas.
     
     ![alt](https://user-images.githubusercontent.com/43634717/151581488-c1a3627a-963c-4c7b-8f58-ca7eb34a77f2.jpg)
 

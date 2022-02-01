@@ -43,7 +43,7 @@ const Home = ({ navigation }: any) => {
   return (
     
     <View style={styles.container}>
-      <Button title="Play Sound" onPress={playSound} />
+      <Button title="Play Pokemon Music" onPress={playSound} />
       
       <ScrollView style={styles.scrollContainer}>
         {pokemons.map((pokemon, i) => (

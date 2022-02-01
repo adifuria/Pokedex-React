@@ -5,7 +5,7 @@ Pokedex using React-Native
 - Page Accueil avec la possibilité de jouer la fameuse musique de notre enfance en appuyant sur le bouton "Play Pokemon Music"
     - La page d'accueil permet de visualiser tous les pokémons en scrollant de haut en bas.
     
-    ![alt](https://user-images.githubusercontent.com/43634717/151581488-c1a3627a-963c-4c7b-8f58-ca7eb34a77f2.jpg)
+    ![alt](https://user-images.githubusercontent.com/43634717/152010045-ada131f2-7982-488d-b36c-0741c6e9a701.jpg)
 
 - Page Détail
     - La page détail permet de voir le pokémon sélectionné, ses spécifications telles que son type, son poids, sa taille et ses faiblesses.
